@@ -1,7 +1,17 @@
 /* GLOBAL */
+@import "./blocks/visually-hidden.scss";
 @import "./common/variables.scss";
-@import "./common/global.scss";
+@import "./common/mixins.scss";
 @import "./common/fonts.scss";
+@import "./common/global.scss";
 
 /* BLOCKS */
 @import "./blocks/header.scss";
+@import "./blocks/site-list.scss";
+@import "./blocks/hero.scss";
+@import "./blocks/container.scss";
+@import "./blocks/choise-programm.scss";
+@import "./blocks/advantages.scss";
+@import "./blocks/experiens.scss";
+@import "./blocks/contacts.scss";
+
