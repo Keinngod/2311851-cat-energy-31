@@ -1,4 +1,9 @@
+.hero {
+  background-color: #68b738;
+}
+
 .hero__title {
+  color: #ffffff;
   font-family: "Oswald", sans-serif;
   font-size: 36px;
   font-weight: 400;
@@ -6,6 +11,7 @@
 }
 
 .hero__description {
+  color: #ffffff;
   font-family: "Oswald", sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -13,6 +19,7 @@
 }
 
 .hero__button {
+  margin: 0;
   font-family: "Oswald", sans-serif;
   font-size: 16px;
   font-weight: 400;
